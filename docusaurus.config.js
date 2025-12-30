@@ -7,11 +7,15 @@ const config = {
   tagline: 'Clear and Practical Developer Documentation',
   favicon: 'img/favicon.ico',
 
-  url: 'http://localhost:3000',
-  baseUrl: '/',
+  url: 'https://GuruShankarG.github.io',
+  baseUrl: '/OpenWeatherMap-API-Docs/',
+  organizationName: 'GuruShankarG',
+  projectName: 'OpenWeatherMap-API-Docs',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+
+  
 
   i18n: {
     defaultLocale: 'en',
