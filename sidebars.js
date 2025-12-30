@@ -31,6 +31,17 @@ const sidebars = {
 
     {
       type: 'category',
+      label: 'Forecast API',
+      collapsed: false,
+      items: [
+        'forecast-api/overview',
+        'forecast-api/by-city-name',
+        'forecast-api/by-coordinates',
+      ],
+    },
+    
+    {
+      type: 'category',
       label: 'Reference',
       collapsed: false,
       items: [
