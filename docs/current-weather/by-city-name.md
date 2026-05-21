@@ -108,3 +108,4 @@ print(response.json())
 - Handle errors gracefully in code (e.g., check `cod` in JSON response).  .
 .
 
+ 
