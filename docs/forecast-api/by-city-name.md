@@ -68,3 +68,4 @@ The API returns a list of forecast objects. Each object represents weather data 
 .
 
  
+ 
